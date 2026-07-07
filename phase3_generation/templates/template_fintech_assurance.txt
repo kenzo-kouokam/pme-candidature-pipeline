@@ -1,0 +1,18 @@
+VERTICAL : Fintech / Assurance
+OBJET    : Candidature spontanée – Alternance Data Scientist | {entreprise}
+========================================================================
+
+Madame, Monsieur,
+
+{intro_personnalise}
+
+Actuellement en Master 2 Data Science & BI à Epitech Toulouse (RNCP Niv. 7), je recherche une alternance 12 mois à partir de septembre 2026 (1j école / 4j entreprise). Deux ans de production ML chez eZida Inc. (Amazon US, remote) m'ont habitué à des environnements où la qualité des données et la robustesse des modèles ne sont pas optionnelles.
+
+Sur le plan technique : j'ai développé un pipeline de scoring bancaire sur 45 211 clients (XGBoost AUC 0.76, SMOTE pour le déséquilibre de classes, segmentation K-Means avec un cluster à 19 % de conversion identifié) — contexte directement transposable à la modélisation de risque ou à la prédiction de churn en assurance / fintech. Ma maîtrise de Python, SQL et AWS complète un profil orienté fiabilité et impact mesurable.
+
+Ce serait un plaisir d'échanger sur vos besoins actuels en data.
+
+Cordialement,
+Cedric Enzo Kouokam Kamhoua
+linkedin.com/in/enzo-kamhoua | github.com/kenzo-kouokam
+cedric-enzo.kouokam-kamhoua@epitech.eu

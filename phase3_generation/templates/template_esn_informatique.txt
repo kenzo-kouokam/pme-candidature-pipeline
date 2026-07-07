@@ -1,0 +1,18 @@
+VERTICAL : ESN / Informatique
+OBJET    : Candidature spontanée – Alternance Data Scientist | {entreprise}
+========================================================================
+
+Madame, Monsieur,
+
+{intro_personnalise}
+
+Actuellement en Master 2 Data Science & BI à Epitech Toulouse (RNCP Niv. 7), je cherche une alternance 12 mois dès septembre 2026, au rythme 1j école / 4j entreprise. Mon profil repose sur 2 ans de production ML chez eZida Inc. (Amazon marketplace, USA, remote), où chaque modèle livré avait un impact direct et mesurable.
+
+Trois projets structurants : prédiction de gravité d'accidents cyclistes (80 022 obs., 4 modèles, données réelles data.gouv.fr) ; segmentation et scoring campagne bancaire (45 211 clients, XGBoost AUC 0.76, cluster à 19 % de conversion) ; détection de bruit en NLP e-commerce (525 000 lignes, Confident Learning / cleanlab, F1 macro 0.82). Stack principale : Python, Scikit-learn, XGBoost, SQL, AWS, Power BI.
+
+Je serais ravi d'échanger sur la façon dont ce profil peut s'aligner à vos chantiers data en cours.
+
+Cordialement,
+Cedric Enzo Kouokam Kamhoua
+linkedin.com/in/enzo-kamhoua | github.com/kenzo-kouokam
+cedric-enzo.kouokam-kamhoua@epitech.eu

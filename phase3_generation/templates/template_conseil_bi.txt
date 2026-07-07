@@ -1,0 +1,18 @@
+VERTICAL : Conseil / BI
+OBJET    : Candidature spontanée – Alternance Data Analyst / Business Analyst | {entreprise}
+========================================================================
+
+Madame, Monsieur,
+
+{intro_personnalise}
+
+En Master 2 Data Science & BI à Epitech Toulouse (RNCP Niv. 7), je recherche une alternance 12 mois à partir de septembre 2026 (rythme 1j/4j). Mon expérience de 2 ans chez eZida Inc. sur les catalogues Amazon US m'a appris à traduire des modèles data en recommandations actionnables pour des équipes non-techniques — ce qui est, je crois, le cœur de la valeur d'un bon analyst en cabinet.
+
+Parmi mes réalisations : segmentation et scoring d'une campagne bancaire (45 211 clients, XGBoost AUC 0.76, identification d'un cluster à 19 % de taux de conversion) ; analyse exploratoire de 80 022 accidents cyclistes avec comparaison de 4 modèles et restitution synthétique ; visualisation et interprétation de résultats NLP sur 525 000 références e-commerce. Stack : Python, SQL, Power BI, Excel avancé.
+
+Disponible pour un échange à votre convenance — je suis mobile sur toute l'Île-de-France.
+
+Cordialement,
+Cedric Enzo Kouokam Kamhoua
+linkedin.com/in/enzo-kamhoua | github.com/kenzo-kouokam
+cedric-enzo.kouokam-kamhoua@epitech.eu

@@ -1,0 +1,18 @@
+VERTICAL : Retail / E-com
+OBJET    : Candidature spontanée – Alternance Data Scientist | {entreprise}
+========================================================================
+
+Madame, Monsieur,
+
+{intro_personnalise}
+
+En Master 2 Data Science & BI à Epitech Toulouse (RNCP Niv. 7), je cherche une alternance 12 mois dès septembre 2026 (1j/4j). Mon profil est directement ancré dans l'e-commerce : 2 ans chez eZida Inc. à optimiser des pipelines ML sur les catalogues Amazon US, avec un impact direct sur la qualité des données produit à grande échelle.
+
+Ce que j'apporte concrètement : un projet de détection de bruit NLP sur 525 000 références e-commerce (Confident Learning / cleanlab, F1 macro 0.82) qui illustre ma capacité à traiter des catalogues massifs et hétérogènes ; une expérience de scoring comportemental sur 45 211 clients (XGBoost AUC 0.76, segmentation K-Means) transposable à la prévision de ventes ou à l'analyse du parcours client. Stack : Python, NLP, Scikit-learn, SQL, Power BI.
+
+Je reste disponible pour un échange à votre convenance.
+
+Cordialement,
+Cedric Enzo Kouokam Kamhoua
+linkedin.com/in/enzo-kamhoua | github.com/kenzo-kouokam
+cedric-enzo.kouokam-kamhoua@epitech.eu

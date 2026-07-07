@@ -1,0 +1,26 @@
+# Données personnelles & outputs générés
+lm_generees/
+lm_tracker.csv
+entreprises_brut.csv
+entreprises_enrichi.csv
+entreprises_cibles.csv
+entreprises_rejetees.csv
+offres_campagne_*.csv
+
+# Secrets
+.env
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# macOS
+.DS_Store
