@@ -1,6 +1,6 @@
 <div align="center">
 
-# alternance-pipeline
+# pme-candidature-pipeline
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white" />
