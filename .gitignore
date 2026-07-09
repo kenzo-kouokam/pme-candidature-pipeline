@@ -1,3 +1,6 @@
+# Fichier de contexte Claude (contient token Notion — local uniquement)
+PME_scraping.md
+
 # Données personnelles & outputs générés
 lm_generees/
 lm_tracker.csv
